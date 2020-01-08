@@ -44,7 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-```javascript
+```c
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
